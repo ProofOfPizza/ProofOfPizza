@@ -4,6 +4,7 @@ Worked in the Netherlands for a variety of organisations in finance, retail and 
 
 Lately focussed on expanding knowledge and experience in Typescript, Angular, Nestjs, MongoDB, Sql, Java, Springboot, AWS, Terraform, Jenkins (and other CICD tools).
 Preferred tools are: Nixos, Vim.
+More fun things on [Gitlab](https://gitlab.com/ProofOfPizza)!
 
 Stuff I find important and fun: Learning new things, math, open source, internet freedom and privacy, collaboration.
 Contact me on [LinkedIn](https://www.linkedin.com/in/chaistofkoper/) or email: chai@inquisitive.nl
