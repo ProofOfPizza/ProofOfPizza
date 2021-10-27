@@ -2,7 +2,7 @@ Forever learning new things! Started my career as a musician (new music coming o
 then went on to test automation and recently moved on to developer role. 
 Worked in the Netherlands for a variety of organisations in finance, retail and government. 
 
-Lately focussed on expanding knowledge and experience in Typescript, Angular, Nestjs, MongoDB, Sql, Java, Springboot, AWS, Terraform, Jenkins (and other CICD tools).
+Lately focussed on expanding knowledge and experience in Typescript, Angular, Nestjs, MongoDB, Sql, Java, Springboot, AWS, Terraform, Jenkins (and other CICD tools). Always with a strong focus on quality (testing and testability) and with a a knack for grasping complexities.
 Preferred tools are: Nixos, Vim.
 Most recent fun things on [Gitlab](https://gitlab.com/ProofOfPizza)!
 
