@@ -9,6 +9,8 @@ Most recent fun things on [Gitlab](https://gitlab.com/ProofOfPizza)!
 Stuff I find important and fun: Learning new things, math, open source, internet freedom and privacy, collaboration.
 Contact me on [LinkedIn](https://www.linkedin.com/in/chaistofkoper/) or email: chai@inquisitive.nl
 
+Read about tech and other fun things on my blog: https://calzone.proofofpizza.com/
+
 "Solving problems is the essence of creativity. Throw me a challenge!"
 
 <!---
